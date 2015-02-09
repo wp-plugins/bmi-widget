@@ -6,8 +6,6 @@ Description: Adds a widget that displays a BMI calculator with standard or metri
 Author: Swain Strickland
 Author URI: https://github.com/swaincreates	
 Version: 1.0
-Stable tag: trunk
-Tags: bmi, bmi calculator, body mass index
 */
 
 //Register Widget
