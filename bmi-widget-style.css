@@ -2,7 +2,8 @@
 	border: 1px solid #000;
 	font-size: 14px;
 	text-align: center;
-	width: 250px;
+	min-width: 230px;
+	max-width: 280px;
 }
 
 .widget-area .widget .bmi-widget-title {
